@@ -1,5 +1,5 @@
 - 👋 Hi, I am Jahfaith, a Data Scientist and Machine Learning Engineer. 
-- 👀 I am interested in Data Science roles.
+- 👀 I am interested in Data Science, Research, and Analytics.
 - 🌱 I’m currently learning DevOps and Cloud Technology. 
 - 💞️ I’m looking to collaborate on banking, aviation, HR, and telecommunication projects.
 - 📫 You can reach me via mail @ irokanulojahfaith@yahoo.com
